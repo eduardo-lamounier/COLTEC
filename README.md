@@ -1,6 +1,6 @@
 # COLTEC
 
-Repositórios contendo códigos MEUS de atividades do COLTEC e códigos feitos em aulas.  
+Repositório contendo códigos MEUS de atividades do COLTEC e códigos feitos em aulas.  
 
 Organizados por diciplina.  
 
