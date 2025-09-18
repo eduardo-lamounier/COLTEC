@@ -1,0 +1,20 @@
+// Lab3: Codigo do professor - usar para consultar algo.
+
+#include<stdio.h>
+
+int main(){
+	printf("Essa é uma string simples\n");
+	
+	char *minha_string = "não é uma string";
+	printf("Essa %s simples\n", minha_string);
+
+	int a = 1;
+	int b = 5;
+	int c;
+
+	c = a + b;
+
+	printf("O primeiro numero é %d\n", );
+	printf("O segundo numero é ", );
+	printf("O terceiro numero é ", );
+}

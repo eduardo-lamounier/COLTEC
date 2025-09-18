@@ -1,0 +1,20 @@
+Q1: Qual a complexidade de um algoritmo de binary search?
+R1: O(logn) onde n eh o tamanho do array
+Q2: Qual a complexidade da insercao e remocao de elementos de uma linked lists?
+R2: O(1) se tivermos o no anterior, O(n) caso contrario
+Q3: Qual a complexidade para remocao de um elemento de um array?
+R3: O(n), onde n eh o tamanho do array
+Q4: Qual a complexidade de um algoritmo de BFS e de DFS?
+R4: O(V + E), onde V eh o numero de vertices (nos) e E eh o numero de conexoes (edges)
+Q5: Qual a complexidade de insercao de um elemento em um hash map?
+R5: O(1) em media, mas O(n) em caso de colisoes (open adressing)
+Q6: Qual a complexidade de acesso de um elemento em uma linked list?
+R6: O(n) se nao for o 'head' (ou tambem o 'tail' em uma singly-linked list)
+Q7: Qual a complexidade de acesso de um elemento em um hashmap?
+R7: O(1) em media, mas O(n) em caso de colisoes (open adressing)
+Q8: O que eh uma min heap?
+R8: Eh um tipo especial de arvore onde os nos (vertices) pais tem um valor menor que os nos filhos
+Q9: E o que eh uma max heap?
+R9: Eh um tipo especial de arvore onde os nos (vertices) pais tem um valor maior que os nos filhos
+Q10: O que eh uma spanning tree?
+R10: Eh um grafo nao-ciclico que passa por todos os vertices de um grafo base
