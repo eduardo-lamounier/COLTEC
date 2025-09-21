@@ -14,7 +14,7 @@ int main(){
 
 	c = a + b;
 
-	printf("O primeiro numero é %d\n", );
-	printf("O segundo numero é ", );
-	printf("O terceiro numero é ", );
+	printf("O primeiro numero é %d\n", a);
+	printf("O segundo numero é %d\n", b);
+	printf("O terceiro numero é %d\n", c);
 }
